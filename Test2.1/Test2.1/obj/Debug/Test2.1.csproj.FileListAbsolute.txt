@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\bin\Debug\Test2.1.exe.config
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\bin\Debug\Test2.1.exe
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\bin\Debug\Test2.1.pdb
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\obj\Debug\Test2.1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\obj\Debug\Test2.1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\obj\Debug\Test2.1.exe
+C:\Users\Asus\Desktop\Programe C#\Test2.1\Test2.1\obj\Debug\Test2.1.pdb
