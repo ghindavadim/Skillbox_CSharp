@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\bin\Debug\3.10HomeWork1.exe.config
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\bin\Debug\3.10HomeWork1.exe
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\bin\Debug\3.10HomeWork1.pdb
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\obj\Debug\3.10HomeWork1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\obj\Debug\3.10HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\obj\Debug\3.10HomeWork1.exe
+C:\Users\Asus\Desktop\Programe C#\3.10HomeWork1\3.10HomeWork1\obj\Debug\3.10HomeWork1.pdb
